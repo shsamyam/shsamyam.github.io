@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samyam Shrestha"
 title_separator          : "-"
 name                     : &name "Samyam Shrestha"
-description              : &description "personal description"
+description              : &description "Ph.D. Student"
 url                      : https://shsamyam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shsamyam/shsamyam.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Samyam Shrestha"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
