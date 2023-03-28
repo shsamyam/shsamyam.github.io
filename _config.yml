@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samyam Shrestha"
 title_separator          : "-"
 name                     : &name "Samyam Shrestha"
-description              : &description "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia."
+description              : &description "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia"
 url                      : https://shsamyam.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shsamyam/shsamyam.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Samyam Shrestha"
   avatar           : "samyam_photo.jpg"
-  bio              : "Ph.D. student in the Department of Agricultural and Applied Economics at the University of Georgia"
+  bio              : "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia"
   location         :
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QqL8Q5EAAAAJ"
   email            : "samyam@uga.edu"
   researchgate     : 
   uri              :
