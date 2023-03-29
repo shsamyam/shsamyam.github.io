@@ -5,8 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-kramdown:
-  input: Kramdown
+
 
 # Site Settings
 locale                   : "en-US"
@@ -84,8 +83,8 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "samyam_photo_2.png"
-  bio              : "Aspiring Agricultural and Labor Economist"
+  avatar           : "samyam_photo_4.jpg"
+  bio              : "Ph.D. Student, University of Georgia"
   location         : "302 Conner Hall, Athens, GA 30602"
   employer         :
   pubmed           : 
