@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samyam Shrestha"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Samyam Shrestha"
 description              : &description "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia"
