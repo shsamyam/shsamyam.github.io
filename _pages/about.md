@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development.
+I am a Ph.D. candidate, currently in my third year, in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). I am also a consultant at The World Bank. My research interests lie at the intersections of labor economics, agricultural economics, and economic development.
 
 Click here for my [Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf).
 
@@ -16,9 +16,9 @@ Click here for my [Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf).
 
 **Working Papers**
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] *(Submitted)*
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] *(Revise and Resubmit at **Labour Economics**)*
 
-[Immigration Enforcement, Entrepreneurship, and Firm Entry/Exit](https://shsamyam.github.io/files/ShresthaSantAnna2023.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+[Immigration Enforcement, Entrepreneurship, and Firm Entry/Exit](https://shsamyam.github.io/files/ShresthaSantAnna2023.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) *(Revise and Resubmit at **Journal of Policy Analysis and Management**)*
 
 <p>&nbsp;</p>
 
