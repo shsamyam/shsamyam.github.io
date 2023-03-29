@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Samyam Shrestha"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
