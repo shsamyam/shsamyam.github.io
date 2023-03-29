@@ -27,5 +27,3 @@ Click here for my [Curriculum Vitae](https://shsamyam.github.io/files/CV_Mar_202
 Revisiting the Impacts of Immigration Control on U.S. Agriculture
 
 Manufacturing Sector Decline, Intersectoral Hysteresis, and Farm Labor Markets
-
-Minimum Wage and Agribusiness Entrepreneurship
