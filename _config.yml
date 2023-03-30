@@ -7,7 +7,6 @@
 
 
 # Site Settings
-theme                    : "minimal"
 locale                   : "en-US"
 title                    : "Samyam Shrestha"
 title_separator          : "-"
