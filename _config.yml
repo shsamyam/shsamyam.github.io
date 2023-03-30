@@ -8,7 +8,7 @@
 
 
 
-theme: minimal
+theme: "minimal"
 # Site Settings
 locale                   : "en-US"
 title                    : "Samyam Shrestha"
