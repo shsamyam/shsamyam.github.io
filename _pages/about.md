@@ -16,9 +16,9 @@ Click here for my [Curriculum Vitae](https://shsamyam.github.io/files/CV_Mar_202
 
 **Working Papers**
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] *(Submitted)*
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf) [with [Hugo Sant'Anna](https://hsantanna.org/)] [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [Submitted]
 
-[Immigration, Entrepreneurship, and Firm Entry/Exit](https://shsamyam.github.io/files/ShresthaSantAnna2023.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+[Immigration, Entrepreneurship, and Firm Entry/Exit](https://shsamyam.github.io/files/ShresthaSantAnna2023.pdf) [with [Hugo Sant'Anna](https://hsantanna.org/)]
 
 <p>&nbsp;</p>
 
