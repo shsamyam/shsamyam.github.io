@@ -27,3 +27,5 @@ Immigration, Entrepreneurship, and Firm Entry/Exit [with [Hugo Sant'Anna](https:
 Revisiting the Impacts of Immigration Control on U.S. Agriculture
 
 Manufacturing Sector Decline, Intersectoral Hysteresis, and Farm Labor Markets
+
+Transport Corridors and Gendered Labor Market Gaps in India [with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and [Amna Javed](https://amnajaved.com/)]
