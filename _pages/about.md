@@ -28,4 +28,4 @@ Revisiting the Impacts of Immigration Control on U.S. Agriculture
 
 Manufacturing Sector Decline, Intersectoral Hysteresis, and Farm Labor Markets
 
-Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and [Amna Javed](https://amnajaved.com/)]
+Market Access and Gendered Labor Market Outcomes [with [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), [Amna Javed](https://amnajaved.com/), and [Aditi Kadam](https://aditikadam.com/)]
