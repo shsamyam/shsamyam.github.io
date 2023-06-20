@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Samyam Shrestha"
 title_separator          : "-"
-name                     : &name "Sam"
+name                     : &name ""
 description              : &description "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia"
 url                      : https://shsamyam.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
