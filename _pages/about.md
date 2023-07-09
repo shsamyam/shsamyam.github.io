@@ -16,7 +16,7 @@ Click here for my [Curriculum Vitae](https://shsamyam.github.io/files/CV_May_4.p
 
 **Working Papers**
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf) [with [Hugo Sant'Anna](https://hsantanna.org/)] [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [Submitted]
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf) [with [Hugo Sant'Anna](https://hsantanna.org/)] [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [Under Review]
 
 <p>&nbsp;</p>
 
@@ -28,4 +28,4 @@ Revisiting the Impacts of Immigration Control on U.S. Agriculture
 
 Manufacturing Sector Decline, Intersectoral Hysteresis, and Farm Labor Markets
 
-Market Access and Gendered Labor Market Outcomes [with [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), [Amna Javed](https://amnajaved.com/), and [Aditi Kadam](https://aditikadam.com/)]
+Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/) and [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis)]
