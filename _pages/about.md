@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development. I am also a Consultant at The World Bank.
+I am a fourth-year Ph.D. student in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development. I am also a Consultant at The World Bank.
 
 Click here for my [Curriculum Vitae](https://shsamyam.github.io/files/CV_May_4.pdf).
 
