@@ -5,11 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dark" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Samyam Shrestha"
+title                    : ""
 title_separator          : "-"
 name                     : Samyam Shrestha #&name""
 description              : &description "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia"
