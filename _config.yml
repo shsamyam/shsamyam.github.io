@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "University of Georgia"
 title_separator          : "-"
-name                     : Samyam Shrestha #&name""
+name                     : "Samyam Shrestha" #&name""
 description              : &description "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia"
 url                      : https://shsamyam.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
