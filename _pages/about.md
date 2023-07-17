@@ -26,6 +26,6 @@ Immigration, Entrepreneurship, and Firm Entry/Exit [with [Hugo Sant'Anna](https:
 
 Revisiting the Impacts of Immigration Control on U.S. Agriculture
 
-Manufacturing Sector Decline and Farm Labor Markets
+Manufacturing Sector Decline, Intersectoral Hysteresis, and Farm Labor Markets
 
 Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/) and [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis)]
