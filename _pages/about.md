@@ -20,12 +20,10 @@ Labor Market Effects of the Venezuelan Refugee Crisis in Brazil [with [Hugo Sant
 
 <p>&nbsp;</p>
 
-**Work in Progress**
+**Selected Work in Progress**
 
 Immigration, Entrepreneurship, and Firm Entry/Exit [with [Hugo Sant'Anna](https://hsantanna.org/)]
 
-Revisiting the Impacts of Immigration Control on U.S. Agriculture
-
-Manufacturing Sector Decline, Intersectoral Hysteresis, and Farm Labor Markets
+Farm Employers' Response to the Adverse Effect Wage Rate
 
 Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/) and [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis)]
