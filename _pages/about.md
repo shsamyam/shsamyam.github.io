@@ -24,6 +24,6 @@ Labor Market Effects of the Venezuelan Refugee Crisis in Brazil [with [Hugo Sant
 
 Immigration, Entrepreneurship, and Firm Entry/Exit [with [Hugo Sant'Anna](https://hsantanna.org/)]
 
-Farm Employers' Response to the Adverse Effect Wage Rate (AEWR) Increase
+The Adverse Effect Wage Rate (AEWR) and Farm Performance
 
 Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/) and [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis)]
