@@ -26,4 +26,4 @@ Immigration, Entrepreneurship, and Firm Entry/Exit [with [Hugo Sant'Anna](https:
 
 The Adverse Effect Wage Rate (AEWR) and Farm Performance
 
-Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/) and [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis)]
+Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed]
