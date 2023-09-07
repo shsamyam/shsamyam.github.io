@@ -24,6 +24,4 @@ Labor Market Effects of the Venezuelan Refugee Crisis in Brazil [with [Hugo Sant
 
 Immigration, Entrepreneurship, and Firm Entry/Exit [with [Hugo Sant'Anna](https://hsantanna.org/)]
 
-The Adverse Effect Wage Rate (AEWR) and Farm Performance
-
-Market Access and Gendered Labor Market Outcomes [with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed]
+Regional Integration and Gendered Labor Market Outcomes: Evidence from Two Nationwide Highway Projects in India [with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed]
