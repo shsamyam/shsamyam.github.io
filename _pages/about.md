@@ -18,6 +18,8 @@ I am a fourth-year Ph.D. student in the [Department of Agricultural and Applied 
 
 Labor Market Effects of the Venezuelan Refugee Crisis in Brazil [with [Hugo Sant'Anna](https://hsantanna.org/)] [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [[Latest Version](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf)] [Under review]
 
+The Effects of Immigration Enforcement on Internal and International Trade: Evidence from U.S. Agriculture [Draft available upon request]
+
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
