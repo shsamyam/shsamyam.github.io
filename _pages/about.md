@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. student in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development. I am also a Consultant at The World Bank.
 
-[Curriculum Vitae](https://shsamyam.github.io/files/CV_Sep_27.pdf)
+[Curriculum Vitae](https://shsamyam.github.io/files/CV_Sep_30.pdf)
 
 <p>&nbsp;</p>
 
@@ -24,7 +24,7 @@ The Effects of Immigration Enforcement on Internal and International Trade: Evid
 
 **Selected Work in Progress**
 
-Immigration, Entrepreneurship, and Firm Entry/Exit [with [Hugo Sant'Anna](https://hsantanna.org/)]
+Immigration, Entrepreneurship, and Firm Dynamics [with [Hugo Sant'Anna](https://hsantanna.org/)]
 
 Regional Integration and Gendered Labor Market Outcomes: Evidence from Two Nationwide Highway Projects in India [with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed]
 
