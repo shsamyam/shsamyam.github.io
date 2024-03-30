@@ -16,7 +16,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Agricultural and Applie
 
 **Working Papers**
 
-Labor Market Effects of the Venezuelan Refugee Crisis in Brazil [with [Hugo Sant'Anna](https://hsantanna.org/)] [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [[Latest Version](https://shsamyam.github.io/files/SantAnnaShrestha2023.pdf)] [Under review]
+Labor Market Effects of the Venezuelan Refugee Crisis in Brazil [with [Hugo Sant'Anna](https://hsantanna.org/)] [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [[Latest Version](https://shsamyam.github.io/files/SantAnnaShrestha2024.pdf)] [Under review]
 
 Labor Supply and the Production and Trade of Labor-Intensive Goods: Evidence from U.S. Agriculture [Draft available upon request]
 
