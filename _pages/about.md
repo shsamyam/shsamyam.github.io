@@ -16,7 +16,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Agricultural and Applie
 
 **Working Papers**
 
-Labor Market Effects of the Venezuelan Refugee Crisis in Brazil [with [Hugo Sant'Anna](https://hsantanna.org/)] [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [[Latest Version](https://shsamyam.github.io/files/SantAnnaShrestha2024.pdf)] [Under review]
+Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Arxiv Working Paper](https://arxiv.org/abs/2302.04201)] [[Latest Version](https://shsamyam.github.io/files/SantAnnaShrestha2024.pdf)] [Under review]
 
 Labor Supply and the Production and Trade of Labor-Intensive Goods: Evidence from U.S. Agriculture [Draft available upon request]
 
@@ -24,8 +24,8 @@ Labor Supply and the Production and Trade of Labor-Intensive Goods: Evidence fro
 
 **Selected Work in Progress**
 
-Immigration, Entrepreneurship, and Firm Dynamics [with [Hugo Sant'Anna](https://hsantanna.org/)]
+Immigration, Entrepreneurship, and Firm Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/))
 
-Regional Integration and Gendered Labor Market Outcomes: Evidence from Two Nationwide Highway Projects in India [with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed]
+Regional Integration and Gendered Labor Market Outcomes: Evidence from Two Nationwide Highway Projects in India [with [Aditi Kadam](https://aditikadam.com/), (Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed)
 
-Perceptions on Undocumented Farm Workers [with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html) and [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html)]
+Perceptions on Undocumented Farm Workers (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html) and [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html))
