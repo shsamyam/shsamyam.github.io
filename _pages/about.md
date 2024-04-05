@@ -26,6 +26,6 @@ Labor Supply and the Production and Trade of Labor-Intensive Goods: Evidence fro
 
 Immigration, Entrepreneurship, and Firm Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/))
 
-Regional Integration and Gendered Labor Market Outcomes: Evidence from Two Nationwide Highway Projects in India [with [Aditi Kadam](https://aditikadam.com/), (Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed)
+Regional Integration and Gendered Labor Market Outcomes: Evidence from Two Nationwide Highway Projects in India (with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed)
 
 Perceptions on Undocumented Farm Workers (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html) and [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html))
