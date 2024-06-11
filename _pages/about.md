@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development. I am also a Consultant at The World Bank.
 
-[Curriculum Vitae (Nov 2023)](https://shsamyam.github.io/files/CV_Oct_13.pdf)
+[Curriculum Vitae (Jun 2023)](https://shsamyam.github.io/files/CV_Jun_11.pdf)
 
 <p>&nbsp;</p>
 
@@ -26,4 +26,4 @@ Seasonal Farm Labor Shortage and the Production and Trade of Labor-Intensive Agr
 
 Immigration, Entrepreneurship, and Firm Entry/Exit (with [Hugo Sant'Anna](https://hsantanna.org/))
 
-The Adverse Effects Wage Rate, Crop Choice, and Land Use
+The Adverse Effect Wage Rate, Crop Choice, and Land Use
