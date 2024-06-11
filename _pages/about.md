@@ -18,14 +18,12 @@ I am a fourth-year Ph.D. candidate in the [Department of Agricultural and Applie
 
 Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [Under review]
 
-Labor Supply and the Production and Trade of Labor-Intensive Goods: Evidence from U.S. Agriculture [Draft available upon request]
+Seasonal Farm Labor Shortage and the Production and Trade of Labor-Intensive Agricultural Commodities [Draft available upon request]
 
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
 
-Immigration, Entrepreneurship, and Firm Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/))
+Immigration, Entrepreneurship, and Firm Entry/Exit (with [Hugo Sant'Anna](https://hsantanna.org/))
 
-Regional Integration and Gendered Labor Market Outcomes: Evidence from Two Nationwide Highway Projects in India (with [Aditi Kadam](https://aditikadam.com/), [Isis Gaddis](https://blogs.worldbank.org/team/isis-gaddis), and Amna Javed)
-
-Perceptions on Undocumented Farm Workers (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html) and [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html))
+The Adverse Effects Wage Rate, Crop Choice, and Land Use
