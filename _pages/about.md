@@ -16,7 +16,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Agricultural and Applie
 
 **Working Papers**
 
-Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R Journal of Economic Geography]
+Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _Journal of Economic Geography_]
 
 Seasonal Farm Labor Shortage and the Production and Trade of Labor-Intensive Agricultural Commodities [Draft available upon request]
 
