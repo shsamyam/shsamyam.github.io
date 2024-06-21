@@ -24,6 +24,6 @@ Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant
 
 **Selected Work in Progress**
 
-Immigration, Entrepreneurship, and Firm Entry/Exit (with [Hugo Sant'Anna](https://hsantanna.org/))
+Immigration, Entrepreneurship, and Firm Entry/Exit (with [Hugo Sant'Anna](https://hsantanna.org/)) [_Working paper coming out in September!_]
 
 The Adverse Effect Wage Rate, Crop Choice, and Land Use
