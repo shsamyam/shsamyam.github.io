@@ -20,6 +20,8 @@ Labor Shortage and the Production and Trade of Labor-Intensive Goods: Evidence f
 
 Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _Journal of Economic Geography_]
 
+Public Perceptions on Undocumented Agricultural Workers (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), Vitalis Othuon, [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://www.danieltregeagle.com/)) [_Draft coming soon!_]
+
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
