@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-Labor Shortage and the Production and Trade of Labor-Intensive Goods: Evidence from U.S. Agriculture [Job Market paper] [_Draft available upon request; draft publicly available at the end of August_]
+Labor Shortage and the Production and Trade of Labor-Intensive Goods: Evidence from U.S. Agriculture [Job Market paper] [[Abstract](https://shsamyam.github.io/files/JMP_Abstract.pdf)] [_Draft available upon request; draft publicly available at the end of August_]
 
 Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _Journal of Economic Geography_]
 
