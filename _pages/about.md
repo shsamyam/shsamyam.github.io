@@ -22,8 +22,6 @@ Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant
 
 Public Perceptions on Undocumented Agricultural Workers (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), Vitalis Othuon, [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://www.danieltregeagle.com/)) [_Draft coming soon!_]
 
-Public Perceptions on Agricultural Labor Supply in the U.S. (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), Vitalis Othuon, [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://www.danieltregeagle.com/)) [_Draft coming soon!_]
-
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
