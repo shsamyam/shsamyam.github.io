@@ -16,16 +16,16 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-Labor Shortage and the Production and Trade of Labor-Intensive Goods: Evidence from U.S. Agriculture [Job Market paper] [[Abstract](https://shsamyam.github.io/files/JMP_Abstract.pdf)] [_Draft available upon request; draft publicly available at the end of August_]
+**Labor Shortage and the Production and Trade of Labor-Intensive Goods: Evidence from U.S. Agriculture** [Job Market paper] [[Abstract](https://shsamyam.github.io/files/JMP_Abstract.pdf)] [_Draft available upon request; draft publicly available at the end of August_]
 
-Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _Journal of Economic Geography_]
+**Labor Market Effects of the Venezuelan Refugee Crisis in Brazil** (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _Journal of Economic Geography_]
 
-Public Perceptions on Undocumented Agricultural Workers (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), Vitalis Othuon, [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://www.danieltregeagle.com/)) [_Draft coming soon!_]
+**Public Perceptions on Undocumented Agricultural Workers** (with [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), Vitalis Othuon, [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://www.danieltregeagle.com/)) [_Draft coming soon!_]
 
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
 
-Immigration, Entrepreneurship, and Firm Entry/Exit (with [Hugo Sant'Anna](https://hsantanna.org/)) [_Working paper coming out in September!_]
+**Immigration, Entrepreneurship, and Firm Entry/Exit** (with [Hugo Sant'Anna](https://hsantanna.org/)) [_Working paper coming out in September!_]
 
-The Adverse Effect Wage Rate, Crop Choice, and Land Use
+**The Adverse Effect Wage Rate, Crop Choice, and Land Use**
