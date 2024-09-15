@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development. Much of my current research focuses on the impacts of (im)migration shocks. I will be on the 2024/25 job market.
+I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development. Much of my current research focuses on the impacts of (im)migration shocks. I will be on the 2024-25 job market.
 
 [Curriculum Vitae (Sep 2024)](https://shsamyam.github.io/files/CV_Sep_14_2024.pdf)
 
