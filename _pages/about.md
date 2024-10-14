@@ -27,3 +27,5 @@ Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [B
 **Selected Work in Progress**
 
 Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Abstract](https://shsamyam.org/files/SC_Abstract.pdf)] [_Working paper coming out in October!_]
+
+The Effects of Crime on Firm Entry and Exit: Evidence from Rio de Janeiro (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Abstract](https://shsamyam.org/files/crimeandcommerce.pdf)]
