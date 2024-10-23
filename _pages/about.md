@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of labor economics, agricultural economics, and economic development. Much of my current research focuses on the impacts of (im)migration shocks. I will be on the 2024-25 job market.
+I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research interests lie at the intersections of agricultural economics and labor economics. I am on the 2024-25 job market.
 
-[Curriculum Vitae (Sep 2024)](https://shsamyam.github.io/files/CV_Sep_14_2024.pdf)
+[Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf)
 
 <p>&nbsp;</p>
 
 **Working Papers**
 
-Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture [Job Market paper] [[Draft](https://shsamyam.org/files/JMP.pdf)]
+Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture [[Draft](https://shsamyam.org/files/JMP.pdf)] [Job Market paper]
 
 Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Draft](https://arxiv.org/pdf/2302.04201)] [R&R _Journal of Economic Geography_]
 
@@ -26,4 +26,4 @@ Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [B
 
 **Selected Work in Progress**
 
-Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Abstract](https://shsamyam.org/files/SC_Abstract.pdf)] [_Working paper coming out in October!_]
+Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Abstract](https://shsamyam.org/files/SC_Abstract.pdf)]
