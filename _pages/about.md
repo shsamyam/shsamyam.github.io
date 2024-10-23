@@ -16,9 +16,9 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture [Job Market paper] [[Abstract](https://shsamyam.org/files/JMP_Abstract.pdf)] [_Draft available upon request; draft publicly available at the beginning of October_]
+Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture [Job Market paper] [[Draft](https://shsamyam.org/files/JMP.pdf)]
 
-Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _Journal of Economic Geography_]
+Labor Market Effects of the Venezuelan Refugee Crisis in Brazil (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Draft](https://arxiv.org/pdf/2302.04201)] [R&R _Journal of Economic Geography_]
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
@@ -27,5 +27,3 @@ Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [B
 **Selected Work in Progress**
 
 Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Abstract](https://shsamyam.org/files/SC_Abstract.pdf)] [_Working paper coming out in October!_]
-
-The Effects of Crime on Firm Entry and Exit: Evidence from Rio de Janeiro (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Abstract](https://shsamyam.org/files/crimeandcommerce.pdf)]
