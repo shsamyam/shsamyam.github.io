@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). I am an applied microeconomist specializing in agricultural and labor economics with a focus on U.S. agricultural labor, trade, firm dynamics, and immigration policy. I am on the 2024-25 job market.
+I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). I am on the 2024-25 job market.
 
 [Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf)
 
