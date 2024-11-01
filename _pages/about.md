@@ -32,12 +32,26 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
   </p>
 </details>
 
-Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
+Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Under review]
+<details style="margin-bottom: 20px; font-size: 0.9em">
+  <summary style="cursor: pointer;">Abstract</summary>
+  <p style="margin-bottom: 20px; font-size: 0.9em">
+    U.S. agriculture heavily relies on foreign-born workers, a significant percentage of whom are undocumented. We use an online survey of a nationally representative sample of U.S. residents to assess public perceptions on undocumented agricultural workers. Based on views about allowing undocumented workers in various agricultural sectors, we categorize our sample into five clusters. Using multinomial logit regression, we identify several sociodemographic predictors of cluster membership.
+  </p>
+</details>
+
+
 
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
 
-Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/)) [[Abstract](https://shsamyam.org/files/SC_Abstract.pdf)]
+Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/))
+<details style="margin-bottom: 20px; font-size: 0.9em">
+  <summary style="cursor: pointer;">Abstract</summary>
+  <p style="margin-bottom: 20px; font-size: 0.9em">
+    We examine whether reducing the undocumented immigrant population affects business dynamics by leveraging the spatiotemporal variations in the implementation of the Secure Communities (SC) program, which coordinates data sharing between local law enforcement agencies to identify and arrest undocumented immigrants. Using difference-in-differences models with the 2001-12 county-level business dynamics panel data, we find that SC implementation at the commuting-zone level reduced the number of firms, establishments, and employment, increased establishment exits, and decreased establishment entries and job creation in the construction sector, but not in other labor-intensive sectors. We discuss several potential mechanisms, including entrepreneurial out-migration, higher labor costs, and changes in consumption.
+  </p>
+</details>
 
 Import Competition and U.S. Domestic Fruit and Vegetable Production
