@@ -25,6 +25,12 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 </details>
 
 [Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://arxiv.org/abs/2302.04201) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R **_Journal of Economic Geography_**]
+<details style="margin-bottom: 20px; font-size: 0.9em">
+  <summary style="cursor: pointer;">Abstract</summary>
+  <p style="margin-bottom: 20px; font-size: 0.9em">
+    We use administrative panel data on the universe of Brazilian formal workers to investigate the labor market effects of the Venezuelan crisis in Brazil, focusing on the border state of Roraima. The results using difference-in-differences show that the monthly wages of Brazilians in Roraima increased by around 2 percent, which was mostly driven by those working in sectors and occupations with no refugee involvement. The study finds negligible job displacement for Brazilians but finds evidence of native workers moving to occupations without immigrants. We also find that immigrants in the informal market offset the substitution effects in the formal market.
+  </p>
+</details>
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
