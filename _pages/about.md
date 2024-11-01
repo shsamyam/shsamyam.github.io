@@ -18,6 +18,11 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 [Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture](https://shsamyam.org/files/JMP.pdf) [Job Market paper]
 
+<details>
+  <summary>*Abstract:* Click to expand</summary>
+  <p>Your abstract content goes here. You can include *Markdown* syntax within this section.</p>
+</details>
+
 [Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://arxiv.org/abs/2302.04201) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R **_Journal of Economic Geography_**]
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
