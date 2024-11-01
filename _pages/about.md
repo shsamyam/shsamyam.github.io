@@ -39,6 +39,8 @@ Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [B
 
 **Selected Work in Progress**
 
+Import Competition and U.S. Domestic Fruit and Vegetable Production
+
 Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/))
 <details style="margin-bottom: 30px; font-size: 0.9em">
   <summary style="cursor: pointer;">Abstract</summary>
@@ -54,5 +56,3 @@ The Effects of Crime on Firm Entry and Exit: Evidence from Rio de Janeiro (with 
     This paper examines the effects of crime on firm entry and exit in the Brazilian city of Rio de Janeiro, using data on the universe of firms and establishments in the city from 2007 to 2017. By spatially locating firms and merging this information with granular neighborhood-level crime data, which includes detailed records of crime type, time, and severity, we investigate how crime influences the local business environment. We address endogeneity and simultaneity issues through an instrumental variable approach, leveraging spatiotemporal variations in the Pacifying Police Unit program that deployed the Brazilian military across Rio de Janeiro neighborhoods in the lead-up to the 2014 FIFA World Cup and 2016 Olympics. We identify neighborhoods with persistently high crime levels that did not receive military intervention to serve as a control group. Our hypothesis is that firms are more likely to enter areas where crime has been reduced and less likely to exit them. We explore heterogeneity at the level of crime type, firm size, industry, and productivity distribution.
   </p>
 </details>
-
-Import Competition and U.S. Domestic Fruit and Vegetable Production
