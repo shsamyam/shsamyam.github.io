@@ -32,14 +32,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
   </p>
 </details>
 
-Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Under review]
-<details style="margin-bottom: 30px; font-size: 0.9em">
-  <summary style="cursor: pointer;">Abstract</summary>
-  <p style="font-size: 0.9em">
-    U.S. agriculture heavily relies on foreign-born workers, a significant percentage of whom are undocumented. We use an online survey of a nationally representative sample of U.S. residents to assess public perceptions on undocumented agricultural workers. Based on views about allowing undocumented workers in various agricultural sectors, we categorize our sample into five clusters. Using multinomial logit regression, we identify several sociodemographic predictors of cluster membership.
-  </p>
-</details>
-
+Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
 
 <p>&nbsp;</p>
