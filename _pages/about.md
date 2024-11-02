@@ -32,7 +32,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
   </p>
 </details>
 
-Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
+Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Submitted]
 
 
 <p>&nbsp;</p>
