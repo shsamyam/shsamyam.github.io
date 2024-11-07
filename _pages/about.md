@@ -56,3 +56,9 @@ The Effects of Crime on Firm Entry and Exit: Evidence from Rio de Janeiro (with 
 </details>
 
 Import Competition and U.S. Domestic Fruit and Vegetable Production
+<details style="margin-bottom: 30px; font-size: 0.9em">
+  <summary style="cursor: pointer;">Abstract</summary>
+  <p style="font-size: 0.9em">
+    In recent decades, U.S. production of major fruit and vegetable (FV) crops has declined, and imports have grown significantly. According to the USDA ERS (2023), the share of imported fresh fruits in the U.S. market increased from around 30 percent in 1981 to 60 percent in 2021, while imported fresh vegetables rose from less than 10 percent to nearly 40 percent over the same period. Previous research has examined the effects of reduced FV production due to labor constraints on trade. Taking a different perspective, this study examines the effects of import competition on U.S. FV production using a shift-share measure constructed from state-level data from the National Agricultural Statistics Service (NASS). Leveraging the method developed by Autor et al. (2013), this approach captures state-specific exposure to changes in national import volumes, accounting for baseline production levels and crop shares across states. The findings will provide new insights into trade’s impact on labor-intensive agricultural sectors and inform policy discussions on the sustainability of U.S. FV production.
+  </p>
+</details>
