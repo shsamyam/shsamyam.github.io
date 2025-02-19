@@ -16,11 +16,11 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-[Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture](https://shsamyam.org/files/JMP.pdf) [Job Market paper]
+[Trade Effects of Immigration Enforcement on Labor-Intensive Crops](https://shsamyam.org/files/JMP.pdf) [Job Market paper]
 <details style="margin-bottom: 30px; font-size: 0.9em">
   <summary style="cursor: pointer;">Abstract</summary>
   <p style="font-size: 0.9em">
-    In recent decades, the farm labor supply in the U.S., which relies heavily on foreign-born workers, has declined, farm labor markets have tightened, and producers have reported labor shortages and rising wages. During this time, U.S. labor-intensive fruit and vegetable (FV) production has reduced, and imports and trade deficits have significantly increased. Connecting these trends, this study examines whether intensified immigration enforcement in the U.S. interior, a supply-side shock to farm labor availability, affects domestic and international FV trade flows. First, I demonstrate that a state's FV production decreases with the intensification of immigration enforcement. Using reduced-form gravity models, I then show that immigration enforcement reduces FV exports to other U.S. states and foreign trading partners. I also show that a state’s FV imports from other U.S. states increase with enforcement intensity, especially from states with lower enforcement levels. Most of these effects are driven by police-based rather than employment-based enforcement. However, I do not find evidence that immigration enforcement contributes to the rise in international FV imports. These results have important implications for U.S. agricultural and trade policy, food supply systems, and consumer welfare.
+    The U.S. farm labor supply depends heavily on foreign-born workers, almost half of whom are unauthorized. Over the past few decades, this labor supply has steadily declined, leading to tighter farm labor markets, widespread reports of worker shortages, and rising wages. At the same time, domestic production of major labor-intensive fruit and vegetable (FV) crops has decreased, while imports and trade deficits have grown substantially. Against this backdrop, this study examines whether intensified immigration enforcement in the U.S. interior, a supply-side shock to farm labor availability affects domestic and international FV trade flows. First, I demonstrate that a state's FV production decreases with the intensification of immigration enforcement. Using reduced-form gravity models, I then show that immigration enforcement reduces FV exports to other U.S. states and foreign trading partners. I also show that a state’s FV imports from other U.S. states increase with enforcement intensity, especially from states with lower enforcement levels. Most of these effects are driven by police-based rather than employment-based enforcement. However, I do not find evidence that immigration enforcement contributes to the rise in international FV imports. These results have important implications for U.S. agricultural and trade policy, food supply systems, and consumer welfare.
   </p>
 </details>
 
@@ -34,7 +34,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
-
+<!-- 
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
@@ -61,4 +61,4 @@ The Effects of Import Competition on U.S. Fruit and Vegetable Sector
   <p style="font-size: 0.9em">
   Over recent decades, the U.S. fruit and vegetable sector has experienced a sharp increase in both the volume and market share of imports, driven by an open domestic import regime and increased competition from low-cost foreign producers. During the same period, there has been a reduction in the production of major fruit and vegetable crops in the U.S. This paper examines the effects of import competition by constructing a county-by-crop-year measure of import competition shock intensity and using instrumental variables that disentangle supply- and demand-side drivers of import growth. We address four key questions: How does import competition affect U.S. domestic fruit and vegetable production? What are its effects on farm productivity and profitability? What are the potential consequences of limiting fruit and vegetable imports on domestic producers? And how do these effects vary across farm size and productivity distributions? The findings aim to inform policy decisions to support the resilience and competitiveness of U.S. producers in an increasingly competitive global food market.
   </p>
-</details>
+</details> -->
