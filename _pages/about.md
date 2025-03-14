@@ -34,7 +34,6 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
-<!-- 
 <p>&nbsp;</p>
 
 **Selected Work in Progress**
@@ -61,4 +60,4 @@ The Effects of Import Competition on U.S. Fruit and Vegetable Sector
   <p style="font-size: 0.9em">
   Over recent decades, the U.S. fruit and vegetable sector has experienced a sharp increase in both the volume and market share of imports, driven by an open domestic import regime and increased competition from low-cost foreign producers. During the same period, there has been a reduction in the production of major fruit and vegetable crops in the U.S. This paper examines the effects of import competition by constructing a county-by-crop-year measure of import competition shock intensity and using instrumental variables that disentangle supply- and demand-side drivers of import growth. We address four key questions: How does import competition affect U.S. domestic fruit and vegetable production? What are its effects on farm productivity and profitability? What are the potential consequences of limiting fruit and vegetable imports on domestic producers? And how do these effects vary across farm size and productivity distributions? The findings aim to inform policy decisions to support the resilience and competitiveness of U.S. producers in an increasingly competitive global food market.
   </p>
-</details> -->
+</details>
