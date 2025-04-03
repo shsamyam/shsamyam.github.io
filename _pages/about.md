@@ -33,6 +33,12 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 </details>
 
 Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home) _[Draft coming in May!]_
+<details style="margin-bottom: 30px; font-size: 0.9em">
+  <summary style="cursor: pointer;">Abstract</summary>
+  <p style="font-size: 0.9em">
+    Agricultural workers are among the poorest in the United States, with many earning wages at or near the minimum wage. This paper examines the effects of minimum wage increases on their participation in the Supplemental Nutrition Assistance Program (SNAP), the largest federal program addressing food insecurity among low-income households. Using data from the 2003–19 American Community Survey, we find no significant effect of minimum wage increases on SNAP participation among likely-eligible agricultural worker households in the full agricultural sample. However, minimum wage hikes disproportionately increase SNAP enrollment among certain demographic groups, particularly Latino- and immigrant-headed households. We have suggestive evidence that these increases are driven by greater labor supply, enabling these groups to meet the minimum hours worked required to qualify for SNAP benefits. The findings are robust to alternative specifications.
+  </p>
+</details>
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
