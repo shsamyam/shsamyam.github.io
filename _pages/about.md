@@ -32,7 +32,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
   </p>
 </details>
 
-Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home) _[Draft coming in May!]_
+Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) _[Draft coming in May!]_
 <details style="margin-bottom: 30px; font-size: 0.9em">
   <summary style="cursor: pointer;">Abstract</summary>
   <p style="font-size: 0.9em">
