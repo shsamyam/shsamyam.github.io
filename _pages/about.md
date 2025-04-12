@@ -40,6 +40,8 @@ Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.
   </p>
 </details>
 
+Aggregation Bias in Gravity Models: Aggregating Over Destinations and Implications for Policy Evaluation _[Email for draft]_
+
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
 <p>&nbsp;</p>
