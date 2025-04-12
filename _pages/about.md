@@ -41,6 +41,13 @@ Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.
 </details>
 
 Aggregation Bias in Gravity Models: Aggregating over Destinations and Implications for Policy Evaluation _[Email for draft]_
+<details style="margin-bottom: 30px; font-size: 0.9em">
+  <summary style="cursor: pointer;">Abstract</summary>
+  <p style="font-size: 0.9em">
+    Gravity models are widely used to analyze trade flows and to evaluate the effects of policy changes. Prior work by Redding and Weinstein (2018) shows that sectoral aggregation biases the estimation of trade elasticities. Here, I extend the logic to aggregation over destinations, which is particularly relevant for regional policy evaluations where only total exports or imports are available. Using a standard CES framework, I show that the log-linear gravity relationship does not survive this partner-level aggregation. Extensive margin adjustments, such as losing trade partners in response to policy shocks, lead to a systematic overstatement of policy effects. Monte Carlo simulations validate the theoretical predictions, demonstrating significant upward bias in the magnitude of estimated policy effects when destination aggregation coincides with extensive margin changes.
+  </p>
+</details>
+
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
