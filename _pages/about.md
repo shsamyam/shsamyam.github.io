@@ -61,11 +61,3 @@ The Effects of Crime on Firm Entry and Exit: Evidence from Rio de Janeiro (with 
     This paper examines the effects of crime on firm entry and exit in the Brazilian city of Rio de Janeiro, using data on the universe of firms and establishments in the city from 2007 to 2017. By spatially locating firms and merging this information with granular neighborhood-level crime data, which includes detailed records of crime type, time, and severity, we investigate how crime influences the local business environment. We address endogeneity and simultaneity issues through an instrumental variable approach, leveraging spatiotemporal variations in the Pacifying Police Unit program that deployed the Brazilian military across Rio de Janeiro neighborhoods. Our hypothesis is that firms are more likely to enter areas where crime has been reduced and less likely to exit them. We explore heterogeneity at the level of crime type, firm size, industry, and productivity distribution.
   </p>
 </details>
-
-The Effects of Import Competition on U.S. Fruit and Vegetable Sector
-<details style="margin-bottom: 30px; font-size: 0.9em">
-  <summary style="cursor: pointer;">Abstract</summary>
-  <p style="font-size: 0.9em">
-  Over recent decades, the U.S. fruit and vegetable sector has experienced a sharp increase in both the volume and market share of imports, driven by an open domestic import regime and increased competition from low-cost foreign producers. During the same period, there has been a reduction in the production of major fruit and vegetable crops in the U.S. This paper examines the effects of import competition by constructing a county-by-crop-year measure of import competition shock intensity and using instrumental variables that disentangle supply- and demand-side drivers of import growth. We address four key questions: How does import competition affect U.S. domestic fruit and vegetable production? What are its effects on farm productivity and profitability? What are the potential consequences of limiting fruit and vegetable imports on domestic producers? And how do these effects vary across farm size and productivity distributions? The findings aim to inform policy decisions to support the resilience and competitiveness of U.S. producers in an increasingly competitive global food market.
-  </p>
-</details>
