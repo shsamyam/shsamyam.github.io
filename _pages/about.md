@@ -28,6 +28,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 -->
 
 [Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://arxiv.org/abs/2302.04201) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R **_Journal of Economic Geography_**]
+
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
   <summary style="cursor: pointer;">Abstract</summary>
@@ -50,9 +51,10 @@ Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
+<!--
+
 <p>&nbsp;</p>
 
-<!--
 **Selected Work in Progress**
 
 Immigration Enforcement and Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/))
