@@ -27,7 +27,8 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 </details>
 -->
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://arxiv.org/abs/2302.04201) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R **_Journal of Economic Geography_**]
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://arxiv.org/abs/2302.04201) (with [Hugo Sant'Anna](https://hsantanna.org/)) _<p style="color: #bd5620;">Journal of Economic Geography</p>_
+
 
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
