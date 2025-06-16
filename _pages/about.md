@@ -40,6 +40,7 @@ Trade Effects of Immigration Enforcement on Labor-Intensive Crops [New draft com
 -->
 
 Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Draft coming end of June. Please email for a copy.]
+
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
   <summary style="cursor: pointer;">Abstract</summary>
