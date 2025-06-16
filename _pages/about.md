@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-[Trade Effects of Immigration Enforcement on Labor-Intensive Crops](https://shsamyam.org/files/JMP.pdf) [Job Market paper]
+Trade Effects of Immigration Enforcement on Labor-Intensive Crops [New draft coming end of June. Please email for a copy.]
 
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
@@ -39,8 +39,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 </details>
 -->
 
-Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) _[Draft coming in May!]_
-
+Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Draft coming end of June. Please email for a copy.]
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
   <summary style="cursor: pointer;">Abstract</summary>
@@ -50,7 +49,7 @@ Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.
 </details>
 -->
 
-Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
+Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Under review]
 
 <!--
 
