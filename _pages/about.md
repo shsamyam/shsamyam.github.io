@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research lies at the intersections of agricultural, labor, and regional economics. I am interested in topics related to U.S. farm labor, local labor market dynamics, firm entry and exit, and the causes and effects of (im)migration shocks.
+I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://uga.edu). My research overlaps agricultural, labor, and public economics. I am interested in topics related to U.S. agricultural labor and the causes and effects of (im)migration shocks.
 
 [Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf)
 
@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-Trade Effects of Immigration Enforcement on Labor-Intensive Crops [New draft coming end of June. Please email for a copy.]
+Trade Effects of Immigration Enforcement on Labor-Intensive Crops [_Please email for a draft_]
 
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
@@ -27,7 +27,7 @@ Trade Effects of Immigration Enforcement on Labor-Intensive Crops [New draft com
 </details>
 -->
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://arxiv.org/abs/2302.04201) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _<span style="color: #ca1f03;">Journal of Economic Geography</span>_]
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/LMEVRCB_06_17_2025.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R _<span style="color: #ca1f03;">Journal of Economic Geography</span>_]
 
 
 <!--
@@ -39,7 +39,7 @@ Trade Effects of Immigration Enforcement on Labor-Intensive Crops [New draft com
 </details>
 -->
 
-Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Draft coming end of June. Please email for a copy.]
+Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [_Please email for a draft_]
 
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
