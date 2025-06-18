@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-Trade Effects of Immigration Enforcement on Labor-Intensive Crops [_Please email for a draft_]
+<u>Trade Effects of Immigration Enforcement on Labor-Intensive Crops</u> [_Please email for a draft_]
 
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
@@ -39,7 +39,7 @@ Trade Effects of Immigration Enforcement on Labor-Intensive Crops [_Please email
 </details>
 -->
 
-Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [_Please email for a draft_]
+<u>Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector</u> (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [_Please email for a draft_]
 
 <!--
 <details style="margin-bottom: 30px; font-size: 0.9em">
@@ -50,7 +50,7 @@ Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.
 </details>
 -->
 
-Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Under review]
+<u>Public Perceptions on Undocumented Agricultural Workers</u> (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Under review]
 
 <!--
 
