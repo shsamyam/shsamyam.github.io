@@ -18,7 +18,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 Trade Effects of Immigration Enforcement on Labor-Intensive Crops [Please email for a draft]
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/LMEVRCB_06_17_2025.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R ***Journal of Economic Geography***]
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/LMEVRCB_06_17_2025.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R <strong class="thin-bold">*Journal of Economic Geography*</strong>]
 
 [Minimum Wage and SNAP Participation among Low-Wage Workers: Evidence from the U.S. Agricultural Sector](https://shsamyam.github.io/files/MWSELWW_06_25_2025.pdf) (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Submitted]
 
