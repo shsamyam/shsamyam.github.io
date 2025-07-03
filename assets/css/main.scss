@@ -43,3 +43,12 @@
 html a {
   color: #3a4f98 !important;
 }
+
+// Remove underlines from every link state
+a,
+a:visited,
+a:focus,
+a:hover,
+a:active {
+  text-decoration: none !important;
+}

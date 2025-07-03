@@ -13,6 +13,13 @@ name                     : "Samyam Shrestha" #&name""
 description              : &description "Ph.D. Student in the Department of Agricultural and Applied Economics at the University of Georgia"
 url                      : https://shsamyam.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+
+# load your override SCSS after the theme’s defaults
+custom_css:
+  - /assets/css/main.scss
+
+
 repository               : "shsamyam/shsamyam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
