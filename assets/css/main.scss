@@ -10,6 +10,8 @@
  *
 */
 
+$site-header-height: 0px !default;
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -51,4 +53,12 @@ a:focus,
 a:hover,
 a:active {
   text-decoration: none !important;
+}
+
+/* hide the header bar & remove its padding on the <body> */
+.site-header {
+  display: none !important;
+}
+body {
+  padding-top: 0 !important;
 }
