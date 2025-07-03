@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-<span style="text-decoration: underline;">Trade Effects of Immigration Enforcement on Labor-Intensive Crops</span> [_Please email for a draft_]
+<span style="text-decoration: underline;">Trade Effects of Immigration Enforcement on Labor-Intensive Crops</span> [Please email for a draft]
 
 [Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/LMEVRCB_06_17_2025.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R ***Journal of Economic Geography***]
 
