@@ -94,7 +94,7 @@ author:
   name             :
   avatar           : "portrait_ss.jpg"
   bio              : "Ph.D. Candidate, University of Georgia"
-  location         : "302 Conner Hall, <br> Athens, GA 30602"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QqL8Q5EAAAAJ"
