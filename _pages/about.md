@@ -16,11 +16,11 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-Trade Effects of Immigration Enforcement on Labor-Intensive Crops
+[Trade Effects of Immigration Enforcement on Labor-Intensive Crops](https://shsamyam.github.io/files/TEIELIC_Abstract.pdf)
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/LMEVRCB_06_17_2025.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R <strong class="thin-bold">*Journal of Economic Geography*</strong>]
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/LMEVRCB.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [R&R <strong class="thin-bold">*Journal of Economic Geography*</strong>]
 
-[Minimum Wage and SNAP Enrollment among Low-Wage Workers: Evidence from the U.S. Agricultural Sector](https://shsamyam.github.io/files/MWSELWW_06_25_2025.pdf) (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Under review]
+[Minimum Wage and SNAP Enrollment among Low-Wage Workers: Evidence from the U.S. Agricultural Sector](https://shsamyam.github.io/files/MWSELWW.pdf) (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Under review]
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Under review]
 
