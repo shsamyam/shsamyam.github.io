@@ -22,6 +22,6 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 [Minimum Wage and SNAP Enrollment among Low-Wage Workers: Evidence from the U.S. Agricultural Sector](https://shsamyam.github.io/files/MWSELWW.pdf) (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Under review]
 
-Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/)) [Under review]
+Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
 The End of Free Movement and International Migration (with [Hugo Sant'Anna](https://hsantanna.org/)) [Under review]
