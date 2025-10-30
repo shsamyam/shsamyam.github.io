@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Working Papers**
 
-[Trade Effects of Immigration Enforcement](https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf)
+[Trade Effects of Immigration Enforcement in Labor-Intensive Agriculture](https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf)
 
 [Minimum Wage and SNAP Enrollment among Low-Wage Workers: Evidence from the U.S. Agricultural Sector](https://shsamyam.github.io/files/Min_Wage_SNAP_Enrollment.pdf) (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home))
 
