@@ -14,6 +14,13 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 <p>&nbsp;</p>
 
+**Publications**
+
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/Labor_Market_Effects_Venezuelan_Refugee_Crisis.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [Forthcoming at <strong class="thin-bold">*Journal of Economic Geography*</strong>]
+
+<p>&nbsp;</p>
+
+
 **Working Papers**
 
 [Trade Effects of Immigration Enforcement in Labor-Intensive Agriculture](https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf)
@@ -31,9 +38,3 @@ The End of Free Movement and International Migration (with [Hugo Sant'Anna](http
 **Selected Work in Progress**
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
-
-<p>&nbsp;</p>
-
-**Publications**
-
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/Labor_Market_Effects_Venezuelan_Refugee_Crisis.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/)) [Forthcoming at <strong class="thin-bold">*Journal of Economic Geography*</strong>]
