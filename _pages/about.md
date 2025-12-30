@@ -33,7 +33,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
-[Minimum Wage and SNAP Enrollment among Low-Wage Workers: Evidence from the U.S. Agricultural Sector](https://shsamyam.github.io/files/Min_Wage_SNAP_Enrollment.pdf) (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home))
+Revisiting the Effects of Minimum Wage Increases on SNAP Participation using Dynamic Difference-in-Differences (with [Haewon Oh](https://sites.google.com/view/haewonoh/home) and [Travis A. Smith](https://sites.google.com/view/travisasmith/home)) [Earlier version, prior to substantial revisions, available [here](https://shsamyam.github.io/files/Min_Wage_SNAP_Enrollment.pdf)]
 
 Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [Benjamin Campbell](https://agecon.uga.edu/people/faculty/benjamin-campbell.html), [William Secor](https://agecon.uga.edu/people/faculty/will-secor.html), and [Daniel Tregeagle](https://cals.ncsu.edu/agricultural-and-resource-economics/people/daniel-tregeagle/))
 
