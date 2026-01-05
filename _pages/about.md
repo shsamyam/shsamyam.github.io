@@ -24,7 +24,7 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 <br>
 <strong class="thin-bold">*Economics Letters*</strong>. Dec 2025.
 <br>
-[Ungated Preprint](https://shsamyam.github.io/files/End_of_Free_Movement_International_Migration.pdf)
+[[Ungated Preprint](https://shsamyam.github.io/files/End_of_Free_Movement_International_Migration.pdf)]
 
 <p>&nbsp;</p>
 
