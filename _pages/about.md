@@ -16,9 +16,11 @@ I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics]
 
 **Publications**
 
-[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://shsamyam.github.io/files/Labor_Market_Effects_Venezuelan_Refugee_Crisis.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+[Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaf047/8425644) (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
 <strong class="thin-bold">*Journal of Economic Geography*</strong>. Forthcoming.
+<br>
+[[Ungated Preprint](https://shsamyam.github.io/files/Labor_Market_Effects_Venezuelan_Refugee_Crisis.pdf)]
 
 [The End of Free Movement and International Migration](https://www.sciencedirect.com/science/article/pii/S0165176525005968) (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
