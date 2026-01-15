@@ -46,3 +46,5 @@ Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [B
 **Selected Work in Progress**
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
+
+Immigration Enforcement Meets Legalization (with [Ryan Ellis](https://www.ryandouglasellis.com/))
