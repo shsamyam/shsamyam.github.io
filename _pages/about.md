@@ -47,4 +47,4 @@ Public Perceptions on Undocumented Agricultural Workers (with Vitalis Othuon, [B
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
 
-Immigration Enforcement Meets Legalization (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+Does Temporary Legalization Mitigate the Effects of Immigration Enforcement on Undocumented Immigrants? (with [Ryan Ellis](https://www.ryandouglasellis.com/))
