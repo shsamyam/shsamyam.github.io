@@ -43,4 +43,4 @@ Under review
 
 **Selected Work in Progress**
 
-Does Temporary Legalization Mitigate the Effects of Immigration Enforcement on Undocumented Immigrants? (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+Temporary Legalization, Enforcement Risk, and Economic Mobility (with [Ryan Ellis](https://www.ryandouglasellis.com/))
