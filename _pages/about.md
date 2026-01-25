@@ -45,4 +45,4 @@ Under review
 
 **Selected Work in Progress**
 
-Temporary Legalization, Enforcement Risk, and Economic Mobility (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+Temporary Legalization, Enforcement Risk, and the Economic Lives of Immigrants (with [Ryan Ellis](https://www.ryandouglasellis.com/))
