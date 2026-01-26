@@ -43,6 +43,10 @@ Under review
 
 <p>&nbsp;</p>
 
-**Selected Work in Progress**
+**Work in Progress**
+
+Labor Supply Shocks and Consolidation in U.S. Agriculture: Evidence from the 1964 Bracero Termination
 
 Temporary Legalization, Enforcement Risk, and the Economic Lives of Immigrants (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+
+Re-examining the Effects of Employer-Based Immigration Enforcement (with [Hugo Sant'Anna](https://hsantanna.org/))
