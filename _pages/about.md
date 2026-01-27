@@ -42,3 +42,11 @@ Under review
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
 <p>&nbsp;</p>
+
+**Work in Progress**
+
+Labor Supply Shocks and Consolidation in U.S. Agriculture: Evidence from the 1964 Bracero Restriction
+
+Temporary Legalization, Enforcement Risks, and the Economic Lives of Immigrants (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+
+Re-examining the Effects of Employer-Based Immigration Enforcement (with [Hugo Sant'Anna](https://hsantanna.org/))
