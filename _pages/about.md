@@ -49,4 +49,6 @@ Labor Supply Shocks and Consolidation in U.S. Agriculture: Evidence from the 196
 
 Temporary Legalization, Enforcement Risk, and the Economic Lives of Immigrants (with [Ryan Ellis](https://www.ryandouglasellis.com/))
 
+Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
+
 Re-examining the Effects of Employer-Based Immigration Enforcement (with [Hugo Sant'Anna](https://hsantanna.org/))
