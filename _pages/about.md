@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the University of Georgia. My research overlaps agricultural, labor, regional, and public economics.
 
-Outside economics, I like long-distance running and making cavernous death metal or (grindcore)[https://www.youtube.com/watch?v=0XTa_5ixU4M]. I am also a beginner perfumer.
+Outside economics, I like long-distance running and making cavernous death metal or (grindcore)[https://www.metal-archives.com/bands/Terrifyer/3540354146]. I am also a beginner perfumer.
 
 [Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf)
 
