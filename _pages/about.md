@@ -39,9 +39,7 @@ Under review
 
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
-Immigration Enforcement and Local Business Dynamics (with [Hugo Sant'Anna](https://hsantanna.org/))
-<br>
-*Please email for a draft*
+[Immigration Enforcement and Local Business Dynamics](https://shsamyam.github.io/files/Immigration_Enforcement_Local_Business_Dynamics.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
 
 <p>&nbsp;</p>
 
