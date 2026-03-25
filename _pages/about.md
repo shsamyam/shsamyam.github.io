@@ -47,7 +47,9 @@ Under review
 
 Labor Supply Shocks and Consolidation in U.S. Agriculture: Evidence from the 1964 Bracero Termination
 
-Temporary Legalization, Enforcement Risk, and the Economic Lives of Immigrants (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+Temporary Legal Status as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+<br>
+*Full draft coming out in April*
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
 
