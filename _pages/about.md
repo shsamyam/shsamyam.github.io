@@ -47,7 +47,7 @@ Under review
 
 Labor Supply Shocks and Consolidation in U.S. Agriculture: Evidence from the 1964 Bracero Termination
 
-Temporary Legal Status as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA (with [Ryan Ellis](https://www.ryandouglasellis.com/))
+Temporary Legal Protection as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA (with [Ryan Ellis](https://www.ryandouglasellis.com/))
 <br>
 *Full draft coming out in April*
 
