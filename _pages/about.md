@@ -50,8 +50,6 @@ Labor Supply Shocks and Consolidation in U.S. Agriculture: Evidence from the 196
 Temporary Legal Protection as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA (with [Ryan Ellis](https://www.ryandouglasellis.com/))
 <br>
 [Abstract](https://shsamyam.github.io/files/DACA_Buffer_Abstract.pdf)
-<br>
-*Draft coming out in April*
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
 
