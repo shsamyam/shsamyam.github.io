@@ -43,6 +43,8 @@ Under review
 
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
+[Re-examining the Effects of Employer-Based Immigration Enforcement](https://shsamyam.github.io/files/LAWA.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+
 <p>&nbsp;</p>
 
 **Work in Progress**
@@ -54,5 +56,3 @@ Temporary Legal Protection as a Buffer against Immigration Enforcement: Employme
 [Abstract](https://shsamyam.github.io/files/DACA_Buffer_Abstract.pdf)
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
-
-Re-examining the Effects of Employer-Based Immigration Enforcement (with [Hugo Sant'Anna](https://hsantanna.org/))
