@@ -43,7 +43,7 @@ Under review
 
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
-[Re-examining the Effects of Employer-Based Immigration Enforcement](https://shsamyam.github.io/files/LAWA.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+[Does Employer-Based Immigration Enforcement Reduce the Undocumented Immigrant Population? Re-examining the Effects of LAWA](https://shsamyam.github.io/files/LAWA.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
 Under review
 
