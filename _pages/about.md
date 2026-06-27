@@ -57,4 +57,6 @@ Temporary Legal Protection as a Buffer against Immigration Enforcement: Employme
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
 
+Social Insurance and Farmworkers: Evidence from Welfare Reform and Its Partial Reversal
+
 The Effects of Minimum Wage Increases on SNAP Participation: Evidence from a Stacked Difference-in-Differences Design (with [Haweon Oh](https://sites.google.com/view/haewonoh/), [Hugo Sant'Anna](https://hsantanna.org/), and [Travis A. Smith](https://sites.google.com/view/travisasmith/home))
