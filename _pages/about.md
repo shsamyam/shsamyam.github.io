@@ -55,6 +55,4 @@ Temporary Legal Protection as a Buffer against Immigration Enforcement: Employme
 <br>
 [Abstract](https://shsamyam.github.io/files/DACA_Buffer_Abstract.pdf)
 
-Social Insurance and Farmworkers: Evidence from Welfare Reform and Its Partial Reversal
-
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
