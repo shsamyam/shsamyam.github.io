@@ -47,6 +47,10 @@ Under review
 <br>
 Under review
 
+AI Exposure and Entrepreneurship (with [Hugo Sant'Anna](https://hsantanna.org/))
+<br>
+Please email for a draft.
+
 <p>&nbsp;</p>
 
 **Work in Progress**
