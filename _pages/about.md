@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the University of Georgia. My research overlaps agricultural, labor, regional, and public economics.
+I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the University of Georgia. My research overlaps agricultural, labor, regional, public, and demographic economics.
 
 [Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf)
 
