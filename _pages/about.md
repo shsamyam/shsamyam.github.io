@@ -61,6 +61,6 @@ Temporary Legal Protection as a Buffer against Immigration Enforcement: Employme
 <br>
 [Abstract](https://shsamyam.github.io/files/DACA_Buffer_Abstract.pdf)
 
-Import Competition in U.S. Agriculture (with [Christian Valencia](https://dicharlton.weebly.com/cv.html))
+Import Competition in U.S. Agriculture (with [Diane Charlton](https://dicharlton.weebly.com/cv.html))
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
