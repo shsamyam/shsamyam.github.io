@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the University of Georgia. My research overlaps agricultural, labor, regional, and public economics.
 
-Broadly, my work falls into three thematic areas: (1) the effects of immigration policy on immigrants, labor markets, and agricultural outcomes; (2) the effects of labor policies and labor market shocks on workers, businesses, and agriculture; and (3) the interaction between trade and labor markets.
+Broadly, my work falls into three thematic areas: (1) the effects of immigration policy on immigrants, labor markets, and agriculture; (2) the effects of labor policies and labor market shocks on workers, businesses, and agriculture; and (3) the interaction between trade and labor markets.
 
 [Curriculum Vitae](https://shsamyam.github.io/files/CV.pdf)
 
