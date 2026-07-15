@@ -49,6 +49,8 @@ Under review
 <br>
 Under review
 
+[Legal Status and Spousal Labor Supply: Evidence from DACA](https://shsamyam.github.io/files/DACA_Spousal_Labor_Supply.pdf)
+
 AI Exposure and Entrepreneurship (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
 Please email for a draft.
