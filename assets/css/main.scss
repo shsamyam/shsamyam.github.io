@@ -57,3 +57,33 @@ a:active {
 .thin-bold {
   font-weight: 500 !important;
 }
+
+
+
+
+
+//New part to centerize and add lines to section headers.
+
+.section-divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 2em 0 1em;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.section-divider::before,
+.section-divider::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid #ddd;
+}
+
+.section-divider::before {
+  margin-right: 0.75em;
+}
+
+.section-divider::after {
+  margin-left: 0.75em;
+}
