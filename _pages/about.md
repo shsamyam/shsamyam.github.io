@@ -49,9 +49,7 @@ Under review
 <br>
 Under review
 
-AI Exposure and Entrepreneurship (with [Hugo Sant'Anna](https://hsantanna.org/))
-<br>
-[Abstract](https://shsamyam.github.io/files/AI_Exposure_Entrepreneurship.pdf). Please email for a full draft.
+[AI Exposure and Entrepreneurship](https://shsamyam.github.io/files/AI_Exposure_Entrepreneurship.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
 
 
 <p>&nbsp;</p>
