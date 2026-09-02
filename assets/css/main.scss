@@ -2,7 +2,7 @@
 ---
 
 @charset "utf-8";
-@import url("https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/serif.css");   //Added these few lines for Computer Modern font.
+@import url("https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/serif.css");   //Added these few lines for Computer Modern font, along with below ones.
 @import url("https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/sans.css");
 
 
@@ -22,7 +22,7 @@ $global-font-family: "Computer Modern Serif", serif;          //Added these four
 $header-font-family: "Computer Modern Sans", sans-serif;
 $sans-serif: "Computer Modern Sans", sans-serif;
 $serif: "Computer Modern Serif", serif;
-
+$sans-serif-narrow: "Computer Modern Sans", sans-serif;
 
 @import "mixins";
 @import "vendor/susy/susy";
