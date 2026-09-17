@@ -51,9 +51,7 @@ Under review
 
 [AI Exposure and Entrepreneurship](https://shsamyam.github.io/files/AI_Exposure_Entrepreneurship.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
 
-Temporary Legal Protection as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA (with [Ryan Ellis](https://www.ryandouglasellis.com/))
-<br>
-[Abstract](https://shsamyam.github.io/files/DACAxEnforcement.pdf)
+[Temporary Legal Protection as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA](https://shsamyam.github.io/files/DACAxEnforcement.pdf) (with [Ryan Ellis](https://www.ryandouglasellis.com/))
 
 <p>&nbsp;</p>
 
