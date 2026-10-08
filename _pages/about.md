@@ -45,7 +45,7 @@ Under review
 
 [Labor Supply Shocks and Child Labor among U.S. Farm Households: Evidence from the Bracero Termination](https://shsamyam.github.io/files/Bracero_Child_Labor.pdf)
 <br>
-R&R <strong class="thin-bold">*American Journal of Agricultural Economics*</strong>.
+R&R <strong class="thin-bold">*American Journal of Agricultural Economics*</strong>
 
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
