@@ -43,7 +43,7 @@ Under review
 <br>
 Under review
 
-[Labor Supply Shocks and Child Labor among U.S. Farm Households: Evidence from the Bracero Termination](https://shsamyam.github.io/files/https://shsamyam.org/files/Bracero_Child_Labor.pdf)
+[Labor Supply Shocks and Child Labor among U.S. Farm Households: Evidence from the Bracero Termination](https://shsamyam.github.io/files/Bracero_Child_Labor.pdf)
 <br>
 R&R <strong class="thin-bold">*American Journal of Agricultural Economics*</strong>.
 
