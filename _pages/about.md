@@ -33,15 +33,13 @@ Broadly, my work falls into three thematic areas: (1) the effects of immigration
 <p>&nbsp;</p>
 
 
-<div class="section-divider">Working Papers</div>
+<div class="section-divider">Selected Working Papers</div>
 
 [Immigration Enforcement and Local Business Dynamics](https://shsamyam.github.io/files/Immigration_Enforcement_Local_Business_Dynamics.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
 Under review
 
 [Trade Effects of Immigration Enforcement in Labor-Intensive Agriculture](https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf)
-<br>
-Under review
 
 [Labor Supply Shocks and Child Labor among U.S. Farm Households: Evidence from the Bracero Termination](https://shsamyam.github.io/files/Bracero_Child_Labor.pdf)
 <br>
@@ -49,17 +47,19 @@ R&R <strong class="thin-bold">*American Journal of Agricultural Economics*</stro
 
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
-[Does Employer-Based Immigration Enforcement Reduce the Undocumented Immigrant Population? Re-examining the Effects of LAWA](https://shsamyam.github.io/files/LAWA.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+<!-- **[Does Employer-Based Immigration Enforcement Reduce the Undocumented Immigrant Population? Re-examining the Effects of LAWA](https://shsamyam.github.io/files/LAWA.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+<br>
+Under review -->
+
+<!-- **[AI Exposure and Entrepreneurship](https://shsamyam.github.io/files/AI_Exposure_Entrepreneurship.pdf)** (with [Hugo Sant'Anna](https://hsantanna.org/)) -->
+
+[Temporary Legal Protection as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA](https://shsamyam.github.io/files/DACAxEnforcement.pdf) (with [Ryan Ellis](https://www.ryandouglasellis.com/))
 <br>
 Under review
 
-[AI Exposure and Entrepreneurship](https://shsamyam.github.io/files/AI_Exposure_Entrepreneurship.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
-
-[Temporary Legal Protection as a Buffer against Immigration Enforcement: Employment, Income, and Poverty under DACA](https://shsamyam.github.io/files/DACAxEnforcement.pdf) (with [Ryan Ellis](https://www.ryandouglasellis.com/))
-
 <p>&nbsp;</p>
 
-<div class="section-divider">Work in Progress</div>
+<div class="section-divider">Selected Work in Progress</div>
 
 Import Competition in U.S. Agriculture (with [Diane Charlton](https://dicharlton.weebly.com/cv.html))
 
