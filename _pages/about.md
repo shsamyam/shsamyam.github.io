@@ -20,13 +20,13 @@ Broadly, my work falls into three thematic areas: (1) the effects of immigration
 
 [Labor Market Effects of the Venezuelan Refugee Crisis in Brazil](https://academic.oup.com/joeg/advance-article/doi/10.1093/jeg/lbaf047/8425644) (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
-<strong class="thin-bold">*Journal of Economic Geography*</strong>. Jan 2026.
+<strong class="thin-bold">*Journal of Economic Geography*</strong>, 26(2): 259–278, 2026.
 <br>
 [Ungated Preprint](https://shsamyam.github.io/files/Labor_Market_Effects_Venezuelan_Refugee_Crisis.pdf)
 
 [The End of Free Movement and International Migration](https://www.sciencedirect.com/science/article/pii/S0165176525005968) (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
-<strong class="thin-bold">*Economics Letters*</strong>. Dec 2025.
+<strong class="thin-bold">*Economics Letters*</strong>, 259: 112759, 2026.
 <br>
 [Ungated Preprint](https://shsamyam.github.io/files/End_of_Free_Movement_International_Migration.pdf)
 
