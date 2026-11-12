@@ -68,3 +68,5 @@ Under review
 Import Competition in U.S. Agriculture (with [Diane Charlton](https://dicharlton.weebly.com/cv.html))
 
 Labor Costs and Land Allocation in U.S. Agriculture (with [Christian Valencia](https://valenciac.github.io/))
+
+Transnational Effects of Labor Nationalization (with [Ryan Ellis](https://www.ryandouglasellis.com/))
