@@ -47,9 +47,9 @@ R&R <strong class="thin-bold">*American Journal of Agricultural Economics*</stro
 
 [The Evolution of Economic and Welfare Gaps between Low-Skill Agricultural and Non-Agricultural Workers in the United States](https://shsamyam.github.io/files/Economic_and_Welfare_Gaps.pdf)
 
-<!-- **[Does Employer-Based Immigration Enforcement Reduce the Undocumented Immigrant Population? Re-examining the Effects of LAWA](https://shsamyam.github.io/files/LAWA.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
+[Does Employer-Based Immigration Enforcement Reduce the Undocumented Immigrant Population? Re-examining the Effects of LAWA](https://shsamyam.github.io/files/LAWA.pdf) (with [Hugo Sant'Anna](https://hsantanna.org/))
 <br>
-Under review -->
+R&R <strong class="thin-bold">*Journal of Applied Econometrics*</strong>
 
 <!-- **[AI Exposure and Entrepreneurship](https://shsamyam.github.io/files/AI_Exposure_Entrepreneurship.pdf)** (with [Hugo Sant'Anna](https://hsantanna.org/)) -->
 
